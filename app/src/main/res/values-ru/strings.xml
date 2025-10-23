@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wait_string">Ожидание…</string>
+    <string name="ip_ipv4_ipv6">IP адрес (IPv4/IPv6)</string>
+    <string name="list_domains">Список доменов (каждый с новой строки)</string>
+    <string name="start">Старт</string>
+    <string name="clear">Очистить</string>
+</resources>

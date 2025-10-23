@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Curl Resolver</string>
+    <string name="wait_string">Waiting…</string>
+    <string name="default_domain" translatable="false">example.org</string>
+    <string name="ip_ipv4_ipv6">IP address (IPv4/IPv6)</string>
+    <string name="list_domains">List of domains (each with a new line)</string>
+    <string name="_0_0" translatable="false">0/0</string>
+    <string name="start">Start</string>
+    <string name="clear">Clear</string>
+    <string name="progress_format" translatable="false">%1$d/%2$d</string>
+</resources>
